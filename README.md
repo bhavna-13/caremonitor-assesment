@@ -15,7 +15,7 @@ This project is a Node.js-based API that processes heart rate data received from
 
    ```bash
    git clone https://github.com/bhavna-13/caremonitor-assesment.git
-   cd heart-rate-api
+   cd caremonitor-assesment
    
 ## Setup
 
